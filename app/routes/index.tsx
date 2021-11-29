@@ -38,6 +38,10 @@ export let loader: LoaderFunction = () => {
       {
         to: "demos/params",
         name: "URL Params and Error Boundaries"
+      },
+      {
+        to: "demos/redux-toolkit",
+        name: "Demonstrating redux-toolkit with like/dislike state"
       }
     ]
   };
